@@ -30,7 +30,7 @@ Ein einfaches Bash-Skript zur Deaktivierung der lästigen **"No valid subscripti
 
 ### 1. Skript herunterladen
 ```bash
-wget https://raw.githubusercontent.com/<DEIN-GITHUB-NAME>/proxmox-disable-subscription-popup/main/disable-subscription-popup.sh
+wget https://raw.githubusercontent.com/gkochAT/proxmox-disable-subscription-popup/main/disable-subscription-popup.sh
 chmod +x disable-subscription-popup.sh
 ```
 
