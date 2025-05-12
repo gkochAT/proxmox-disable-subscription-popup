@@ -1,0 +1,1 @@
+# proxmox-disable-subscription-popup
